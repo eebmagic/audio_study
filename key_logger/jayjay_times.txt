@@ -1,0 +1,15 @@
+Sepang (no sounds):
+	First: 1:26
+	Second: 1:19
+
+Stowe Circuit (with sounds):
+	First: 0:47
+	Second: 0:55
+
+RaceRoom Raceway (no sounds):
+	First: 2:06
+	Second: 1:51
+
+Partimao (with sounds):
+	First: 2:00
+	Second: 1:54
